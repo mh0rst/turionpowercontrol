@@ -25,3 +25,5 @@ Other interesting options are listing current Hardware Thermal Control (HTC) par
 And you may wish to read the temperature reported from the internal diodes:
 
 *> TurionPowerControl -­temp*
+
+*Check the included documentation for more detailed informations, in particular paragraphs 3.1 and 3.2*
