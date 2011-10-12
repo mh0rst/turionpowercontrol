@@ -5,7 +5,7 @@ TurionPowerControl implements the most precise cpu usage counter available for A
 It is the most precise simply because it uses processor specific performance counters.
 To use the performance usage meter, just issue:
 
-*> TurionPowerControl ­-perf­cpuusage*
+*> TurionPowerControl ­-perf­-cpuusage*
 
 and it will go into daemon mode telling you every second the actual cpu usage of every core. To exit the program while in daemon mode you have to press CTRL-C.
 
