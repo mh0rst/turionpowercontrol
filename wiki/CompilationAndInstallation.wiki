@@ -24,7 +24,7 @@ insert your root password, then write:
 
 And the process is completed. You can invoke TurionPowerControl (as root) from everywhere you wish.
 
-To install the program if you are using Debian/Ubuntu based distributions run this command:
+To install the program if you are using Ubuntu based distributions run this command:
 
 *> sudo make install*
 
